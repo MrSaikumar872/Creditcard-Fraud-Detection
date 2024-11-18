@@ -1,3 +1,9 @@
+# CODTECH IT SOLUTIONS TASK2
+## Internship Domain : Machine Learning
+## Intern ID : CT12DS2495
+## Intern Name : BAGURUBILLI SAI KUMAR
+## Project Name : CREDITCARD FRAUD DETECTION
+
 
 # Credit Card Fraud Detection
 
